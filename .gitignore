@@ -1,5 +1,15 @@
 *.class
 
+
+/target/
+/.settings/
+/.classpath
+/.gitignore
+/.project
+/logback/
+/bin/
+
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
@@ -61,3 +71,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/target/
